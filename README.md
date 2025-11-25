@@ -223,6 +223,15 @@ This project is licensed under the `MIT` license. See `LICENSE` for details.
 
 ---
 
+## Citation
+
+If you use QLACI or this implementation in academic or industrial work, please cite:
+
+[Stoner], *Hybrid Quantum–Classical Transformer with Quantum Log-Attention (QLACI)*, 2025.  
+GitHub: [https://github.com/YourUser/qlaci-hybrid-transformer](https://github.com/StonerIsh420/qlaci-hybrid-transformer)
+
+---
+
 ## AI Assistance
 
 This project used large language models as assistants during writing and debugging:
