@@ -223,8 +223,6 @@ This project is licensed under the `MIT` license. See `LICENSE` for details.
 
 ---
 
----
-
 ## AI Assistance
 
 This project used large language models as assistants during writing and debugging:
